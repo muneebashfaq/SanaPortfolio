@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/SanaPortfolio/static/css/main.9fd6a7d5.css",
-    "main.js": "/SanaPortfolio/static/js/main.aa880759.js",
-    "static/js/512.02771ce4.chunk.js": "/SanaPortfolio/static/js/512.02771ce4.chunk.js",
+    "main.css": "/SanaPortfolio/static/css/main.c8b4d6e1.css",
+    "main.js": "/SanaPortfolio/static/js/main.acefd424.js",
+    "static/js/453.c937a3a2.chunk.js": "/SanaPortfolio/static/js/453.c937a3a2.chunk.js",
+    "static/media/profilePicture.jpeg": "/SanaPortfolio/static/media/profilePicture.1a3f138475f72c0bd923.jpeg",
     "static/media/background2.jpg": "/SanaPortfolio/static/media/background2.3e7dcc14890591fa365d.jpg",
     "static/media/background.jpg": "/SanaPortfolio/static/media/background.2775639bc857c4b711a5.jpg",
     "static/media/background3.jpg": "/SanaPortfolio/static/media/background3.825190cd9083679b7d8a.jpg",
@@ -11,32 +12,27 @@
     "static/media/blog1.png": "/SanaPortfolio/static/media/blog1.dead64c80119d69177b2.png",
     "static/media/background6.jpg": "/SanaPortfolio/static/media/background6.164d88d54f98ad790262.jpg",
     "static/media/background4.jpg": "/SanaPortfolio/static/media/background4.fba3e9c566bf6aa4f180.jpg",
-    "static/media/profilePicture.jpg": "/SanaPortfolio/static/media/profilePicture.64f85414cc9f85967c2f.jpg",
     "static/media/Seo.png": "/SanaPortfolio/static/media/Seo.a53e90f6fa7ed751bf89.png",
-    "static/media/feedback10.jpg": "/SanaPortfolio/static/media/feedback10.1a2fbd389de20f255aa2.jpg",
-    "static/media/feedback6.jpg": "/SanaPortfolio/static/media/feedback6.11749913e463c437e9f7.jpg",
-    "static/media/feedback12.jpg": "/SanaPortfolio/static/media/feedback12.2484171123f7b11fff6c.jpg",
-    "static/media/feedback4.jpg": "/SanaPortfolio/static/media/feedback4.8d13241a6cac47d31856.jpg",
-    "static/media/feedback3.jpg": "/SanaPortfolio/static/media/feedback3.a0535575c72fd69b5206.jpg",
-    "static/media/feedback2.jpg": "/SanaPortfolio/static/media/feedback2.ab00ad428bcaee0179a7.jpg",
-    "static/media/feedback1.jpg": "/SanaPortfolio/static/media/feedback1.4b26e811eca53457579a.jpg",
-    "static/media/feedback7.jpg": "/SanaPortfolio/static/media/feedback7.79b2ac81ab1a2d49fe78.jpg",
-    "static/media/feedback11.jpg": "/SanaPortfolio/static/media/feedback11.dc63354848f2936720fa.jpg",
-    "static/media/feedback8.jpg": "/SanaPortfolio/static/media/feedback8.953464a7efd26a8aa0df.jpg",
-    "static/media/feedback5.jpg": "/SanaPortfolio/static/media/feedback5.138d9e93337ef97cd521.jpg",
-    "static/media/feedback9.jpg": "/SanaPortfolio/static/media/feedback9.3be731559cf5fb64c1c7.jpg",
+    "static/media/feedback4.jpg": "/SanaPortfolio/static/media/feedback4.497826bb07b58fc3ccf2.jpg",
+    "static/media/feedback1.jpg": "/SanaPortfolio/static/media/feedback1.94b68baf326e1b03abd5.jpg",
+    "static/media/feedback8.jpg": "/SanaPortfolio/static/media/feedback8.03ed35dfb47ca144d063.jpg",
+    "static/media/feedback7.jpg": "/SanaPortfolio/static/media/feedback7.42a90526e155a31f5d3e.jpg",
+    "static/media/feedback3.png": "/SanaPortfolio/static/media/feedback3.44f49956f960784d18aa.png",
+    "static/media/feedback5.png": "/SanaPortfolio/static/media/feedback5.c7e2914d64446a5c6e4f.png",
+    "static/media/feedback6.png": "/SanaPortfolio/static/media/feedback6.c7e2914d64446a5c6e4f.png",
+    "static/media/feedback2.png": "/SanaPortfolio/static/media/feedback2.ef9e1d8bfa09f16758bc.png",
     "static/media/whatsapp.svg": "/SanaPortfolio/static/media/whatsapp.7dc3f3267bee9b39fd8d08466208e48a.svg",
     "index.html": "/SanaPortfolio/index.html",
     "static/media/fiverr.svg": "/SanaPortfolio/static/media/fiverr.e7902bddb43fdc0aa934aaee7e35b8c7.svg",
     "static/media/skype.svg": "/SanaPortfolio/static/media/skype.28f45b0e7baccddabd06a0504e20df14.svg",
     "static/media/gmail.svg": "/SanaPortfolio/static/media/gmail.e1bc2ceb745debf9361ad2160a79823a.svg",
     "static/media/linkedin.svg": "/SanaPortfolio/static/media/linkedin.ada11cda991129bc91b79d2c7cee1066.svg",
-    "main.9fd6a7d5.css.map": "/SanaPortfolio/static/css/main.9fd6a7d5.css.map",
-    "main.aa880759.js.map": "/SanaPortfolio/static/js/main.aa880759.js.map",
-    "512.02771ce4.chunk.js.map": "/SanaPortfolio/static/js/512.02771ce4.chunk.js.map"
+    "main.c8b4d6e1.css.map": "/SanaPortfolio/static/css/main.c8b4d6e1.css.map",
+    "main.acefd424.js.map": "/SanaPortfolio/static/js/main.acefd424.js.map",
+    "453.c937a3a2.chunk.js.map": "/SanaPortfolio/static/js/453.c937a3a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9fd6a7d5.css",
-    "static/js/main.aa880759.js"
+    "static/css/main.c8b4d6e1.css",
+    "static/js/main.acefd424.js"
   ]
 }
